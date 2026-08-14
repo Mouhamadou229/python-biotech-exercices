@@ -1,2 +1,2 @@
 # python-biotech-exercices
-Exercices réalisés à partir de mon manuel Python Data Science Biomédicale, Tome 1
+Exercices pratiques réalisés à partir de mon parcours d'apprentissage en data science biomédicale (Tomes 1 à 4)
